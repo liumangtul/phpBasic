@@ -22,9 +22,12 @@
     <?php
         $name = 'Promise';
         echo "I'm $name";
-        echo "\n Hello World!"
+        echo "\n Hello World!";
             //单引号内容都解析成字符串
             //双引号内容隐式转换成相应类型
+
+
+
     ?>
 </body>
 </html>
